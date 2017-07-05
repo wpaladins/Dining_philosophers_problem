@@ -254,7 +254,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "Dining_philosophers_problem";
-            this.Text = "Dining philosophers problem";
+            this.Text = "Dining philosophers problem by CS1504 WangXuSheng";
             this.Load += new System.EventHandler(this.Dining_philosophers_problem_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pause_pictureBox)).EndInit();
             this.groupBox1.ResumeLayout(false);
